@@ -24,7 +24,7 @@ pinMode(buttonPin, INPUT_PULLUP);
 
 # Circuit Diagram
 
-![Circu![Final](https://github.com/user-attachments/assets/36a1d358-3ac4-4d28-a854-f9f31db2b99a)
+![Final](https://github.com/user-attachments/assets/36a1d358-3ac4-4d28-a854-f9f31db2b99a)
 
 # Code
 
